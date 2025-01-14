@@ -60,3 +60,37 @@
 ![IMG_6620.jpeg](/img/user/IMG_6620.jpeg)
 ![IMG_6621.jpeg](/img/user/IMG_6621.jpeg)
 เทพแห่งการสื่อสาร แสงสีขาว
+
+(G)(A)เดือนตุลาคม2024
+
+(one) 5 ต.ค.2024
+(.)ท่านราฟาเอล
+https://drive.google.com/file/d/171GIDFrU3Sc2GCVPN8K3j4qXJ8TUq_i_/view?usp=
+(*)สมาธิท่านราฟาเอล
+https://drive.google.com/file/d/175SLpItRMDVIhZnUhMUkEsiNsA3UPJMS/view?usp=drivesdk
+
+(two) 12 ต.ค.2024 
+(.)ท่านมิคาเอล
+https://drive.google.com/file/d/1HxtHnm2lxZHs_CZ3ddEPA7Lk85BKOwov/view?usp=drivesdk
+(*)สมาธิท่านมิคาเอล
+https://drive.google.com/file/d/1HwnBjZw6PWUgY74bnLVVqSa-XKY884V9/view?usp=drivesdk
+
+(three)19ต.ค.2024 07.00น.
+(.)ท่านฮานิเอล 
+https://drive.google.com/file/d/1BtBTZENkSGJB_UUBv5QbfcxEfSWacChK/view?usp=drivesdk
+(*)สมาธิท่านฮานิเอล 
+https://drive.google.com/file/d/1BtD3cwuOsNuJW94Cb5soJ_kh_crzYEU6/view?usp=drivesdk
+
+(four) 26ต.ค.2024 7.00น.
+(.)ท่านยูริเอล
+https://drive.google.com/file/d/1EdY4cKD-TpbdvcDhnniu2O2gy75R9-UA/view?usp=drivesdk
+(*)สมาธิท่านยูริเอล
+https://drive.google.com/file/d/1EgsB-oji9KCY6TBrb7-qpDe4om3NXdVy/view?usp=drivesdk
+
+(five)นางฟ้าแม่ทูนหัว 2พ.ย.2024 7.00น.
+(*)คำแนะนำจากอ.ฮัสก่อนเรียนGAเช้านี้ 
+https://drive.google.com/file/d/1HMJVxUP94L8xJZxuH7jvZXp82xz0I1cb/view?usp=drivesdk
+(.)นางฟ้าแม่ทูนหัว
+https://drive.google.com/file/d/1H4BlFwyNCcBv0SUjNW5vmlq1iNJPyIUp/view?usp=drivesdk
+(*)สมาธินางฟ้าแม่ทูนหัว 
+https://drive.google.com/file/d/1HRBOkppvGHJf1TGQXKNkgQ10iCn3wfk7/view?usp=drivesdk
