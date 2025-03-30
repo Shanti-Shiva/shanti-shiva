@@ -6,6 +6,8 @@
 
 [[RA Ray of Light, Mission\|RA Ray of Light, Mission]]
 [[GA พลังงานและเทพผู้พิทักษ์\|GA พลังงานและเทพผู้พิทักษ์]] 
+[[MJ Master of Jedi\|MJ Master of Jedi]]
+[[SG Sacred Geometry\|SG Sacred Geometry]] 
 
 
 
