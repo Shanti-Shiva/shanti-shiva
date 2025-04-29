@@ -3,6 +3,7 @@
 ---
 
 [[Shanghai Motor Show 25 Day1\|Shanghai Motor Show 25 Day1]]
+[[Shanghai Motor Show 25 Day3\|Shanghai Motor Show 25 Day3]]
 
 สิ่งที่ประทับใจ
 มือจับแบบซ่อนเรียบ เป็นมาตรฐาน
