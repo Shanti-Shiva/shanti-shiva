@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/shanghai-motor-show-y25/"}
 ---
 
-
+#### Day1
 
 Horizon Robotics
 ![[IMG_8248.mov]]
@@ -83,3 +83,5 @@ TOYOTA bz5
 Bz4x หน้าตาไม่คุ้นแฮะเป็น Taxi ไปละ
 
 วันนี้จบที่โตต้า พรุ่งนี้ว่ากันใหม่ เหนื่อยละ
+#### Day2
+
