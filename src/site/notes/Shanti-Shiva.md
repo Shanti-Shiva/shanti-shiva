@@ -9,7 +9,8 @@
 [[AB1 Angelics crystal body\|AB1 Angelics crystal body]]
 [[MJ Master of Jedi\|MJ Master of Jedi]]
 [[SG Sacred Geometry\|SG Sacred Geometry]] 
-[[Shanghai Motor Show Y25\|Shanghai Motor Show Y25]]
+[[Shanghai Motor Show 25 Day1\|Shanghai Motor Show 25 Day1]]
+[[Shanghai Motor Show 25 Day2\|Shanghai Motor Show 25 Day2]]
 
 
 
