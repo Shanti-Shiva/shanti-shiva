@@ -3,6 +3,7 @@
 ---
 
 [[Shanghai Motor Show 25 Day2\|Shanghai Motor Show 25 Day2]] 
+[[Shanghai Motor Show 25 Day3\|Shanghai Motor Show 25 Day3]]
 
 Horizon Robotics
 ![[IMG_8248.mov]]
