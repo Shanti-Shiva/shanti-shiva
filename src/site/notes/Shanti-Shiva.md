@@ -10,6 +10,8 @@
 [[MJ Master of Jedi\|MJ Master of Jedi]]
 [[DA แสกนเชิงลึก\|DA แสกนเชิงลึก]]
 [[Arcturus ดาวอาร์คทูรัส\|Arcturus ดาวอาร์คทูรัส]]
+[[LC โรคผิวหนัง\|LC โรคผิวหนัง]]
+
 
 
 
