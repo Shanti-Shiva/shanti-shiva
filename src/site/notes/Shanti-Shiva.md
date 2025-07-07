@@ -13,8 +13,8 @@
 [[LC โรคผิวหนัง\|LC โรคผิวหนัง]]
 [[LC Infection การติดเชื้อ\|LC Infection การติดเชื้อ]]
 [[LC NCD ไขรหัสจิตพิชิตโรคเรื้อรัง\|LC NCD ไขรหัสจิตพิชิตโรคเรื้อรัง]]
-[[ฐานจิต1\|ฐานจิต1]]
-[[ฐานจิต2\|ฐานจิต2]]
+[[ฐานจิต Mind Foundation 1\|ฐานจิต Mind Foundation 1]]
+[[ฐานจิต Mind Foundation 2\|ฐานจิต Mind Foundation 2]]
 
 
 
