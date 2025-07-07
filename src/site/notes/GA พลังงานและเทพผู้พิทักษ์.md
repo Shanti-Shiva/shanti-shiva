@@ -82,6 +82,7 @@ https://drive.google.com/file/d/1BtBTZENkSGJB_UUBv5QbfcxEfSWacChK/view?usp=drive
 https://drive.google.com/file/d/1BtD3cwuOsNuJW94Cb5soJ_kh_crzYEU6/view?usp=drivesdk
 
 (four) 26ต.ค.2024 7.00น.
+[[สมาธิท่านยูริเอล\|สมาธิท่านยูริเอล]] 
 (.)ท่านยูริเอล
 https://drive.google.com/file/d/1EdY4cKD-TpbdvcDhnniu2O2gy75R9-UA/view?usp=drivesdk
 (*)สมาธิท่านยูริเอล
