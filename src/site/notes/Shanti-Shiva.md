@@ -10,9 +10,9 @@
 [[MJ Master of Jedi\|MJ Master of Jedi]]
 [[DA แสกนเชิงลึก\|DA แสกนเชิงลึก]]
 [[Arcturus ดาวอาร์คทูรัส\|Arcturus ดาวอาร์คทูรัส]]
-[[LC โรคผิวหนัง\|LC โรคผิวหนัง]]
-[[LC Infection การติดเชื้อ\|LC Infection การติดเชื้อ]]
-[[LC NCD ไขรหัสจิตพิชิตโรคเรื้อรัง\|LC NCD ไขรหัสจิตพิชิตโรคเรื้อรัง]]
+[[LC W4 โรคผิวหนัง\|LC W4 โรคผิวหนัง]]
+[[LC W3 Infection การติดเชื้อ\|LC W3 Infection การติดเชื้อ]]
+[[LC W2 NCD ไขรหัสจิตพิชิตโรคเรื้อรัง\|LC W2 NCD ไขรหัสจิตพิชิตโรคเรื้อรัง]]
 [[ฐานจิตร Mind Foundation\|ฐานจิตร Mind Foundation]]
 
 
