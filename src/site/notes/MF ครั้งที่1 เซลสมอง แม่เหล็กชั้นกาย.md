@@ -6,6 +6,7 @@
 https://www.facebook.com/share/g/1CMkmuR7up/?mibextid=wwXIfr
 
 [[ฐานจิตร Mind Foundation\|ฐานจิตร Mind Foundation]]
+[[MF ครั้งที่2 จักระอนุภาค\|MF ครั้งที่2 จักระอนุภาค]]
 ## ปฐมนิเทศ
 นี่คือสรุปรายละเอียดเกี่ยวกับการปฐมนิเทศหลักสูตร "ฐานจิต รุ่น 11" หรือ "Spirit of Light" โดยโค้ชทัน:
 
