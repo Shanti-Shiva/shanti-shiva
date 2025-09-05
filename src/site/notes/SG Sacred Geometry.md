@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sg-sacred-geometry/"}
 ---
 
+[[การสอบวัดผล SG\|การสอบวัดผล SG]]
+[[LF Life Force\|LF Life Force]]
 
 การบ้านก่อนเรียน สิ่งที่ปัจจุบันทำอยู่
 ![[สิ่งที่ทำอยู่ปัจจุบัน .m4a]]
