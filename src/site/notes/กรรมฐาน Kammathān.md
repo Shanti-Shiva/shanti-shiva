@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kammathan/"}
 ---
 
-[[ฐานจิตร Mind Foundation\|ฐานจิตร Mind Foundation]]
+[[ฐานจิตร Mind Foundation (Basic)\|ฐานจิตร Mind Foundation (Basic)]]
 
 **ความหมายของกรรมฐานและพื้นฐานการปฏิบัติ:**
 
