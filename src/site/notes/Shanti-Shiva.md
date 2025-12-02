@@ -4,7 +4,7 @@
 
 ## WELCOME TO SPIRITUAL LIBRARY PROJECT
 
-[[สมาธิทิเบต\|สมาธิทิเบต]]
+[[สมาธิทิเบต Tibet Meditation\|สมาธิทิเบต Tibet Meditation]]
 
 
 
