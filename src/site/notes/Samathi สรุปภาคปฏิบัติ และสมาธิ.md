@@ -5,7 +5,7 @@
 #### สารบัญหลัก
 [[ฐานจิตร Mind Foundation (Basic)\|ฐานจิตร Mind Foundation (Basic)]]
 [[ฐานจิตร แอดว้านซ์ Mind Foundation Advance\|ฐานจิตร แอดว้านซ์ Mind Foundation Advance]]
-[[รวมบทสวด\|รวมบทสวด]]
+[[รวมบทสวด Chant Index\|รวมบทสวด Chant Index]]
 
 #### การปฏิบัติของฐานจิต
 
