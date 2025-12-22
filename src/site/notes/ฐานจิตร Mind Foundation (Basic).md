@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-foundation-basic/"}
 ---
 
+[[ฐานจิตร แอดว้านซ์ Mind Foundation Advance\|ฐานจิตร แอดว้านซ์ Mind Foundation Advance]]
 ฐานจิตร ประกอบการเรียน 31ครั้งเริ่มวันที่  6มิย68 และจบวันที่18ตค68
 
 [[MFB ครั้งที่1 เซลสมอง แม่เหล็กชั้นกาย\|MFB ครั้งที่1 เซลสมอง แม่เหล็กชั้นกาย]]

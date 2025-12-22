@@ -4,6 +4,7 @@
 
 [[ฐานจิตร แอดว้านซ์ Mind Foundation Advance\|ฐานจิตร แอดว้านซ์ Mind Foundation Advance]]
 [[MFA ครั้งที่1 Divine Body ทั้ง9 กับดวงดาว\|MFA ครั้งที่1 Divine Body ทั้ง9 กับดวงดาว]]
+[[MFA ครั้งที่3 Ground Chakra\|MFA ครั้งที่3 Ground Chakra]]
 
 # แผนผังต้นไม้แห่งชีวิตและพลังงานจักระเบื้องสูง
 

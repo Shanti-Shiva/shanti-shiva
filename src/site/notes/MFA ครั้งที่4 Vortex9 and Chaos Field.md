@@ -4,6 +4,7 @@
 
 [[ฐานจิตร แอดว้านซ์ Mind Foundation Advance\|ฐานจิตร แอดว้านซ์ Mind Foundation Advance]]
 [[MFA ครั้งที่3 Ground Chakra\|MFA ครั้งที่3 Ground Chakra]]
+[[MFA ครั้งที่5 ทบทวน24จักระ\|MFA ครั้งที่5 ทบทวน24จักระ]]
 
 ![att.S960-4MV4UGHYQySxGejofVARl7pVCUlXa0TRiWc7oQ.jpeg](/img/user/att.S960-4MV4UGHYQySxGejofVARl7pVCUlXa0TRiWc7oQ.jpeg)
 ## บทที่ 1: รากฐานแห่งกรรมและการสำนึก
