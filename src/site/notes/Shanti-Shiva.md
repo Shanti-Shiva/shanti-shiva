@@ -4,8 +4,7 @@
 
 ## WELCOME TO SPIRITUAL LIBRARY PROJECT
 
-[[2026 Goal Objective\|2026 Goal Objective]]
-
+[[Hidden_2569\|Hidden_2569]] 
 
 
 
