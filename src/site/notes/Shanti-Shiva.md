@@ -4,7 +4,7 @@
 
 ## WELCOME TO SPIRITUAL LIBRARY PROJECT
 
-[[สมาธิทิเบต Tibet Meditation\|สมาธิทิเบต Tibet Meditation]]
+[[2026 Goal Objective\|2026 Goal Objective]]
 
 
 
