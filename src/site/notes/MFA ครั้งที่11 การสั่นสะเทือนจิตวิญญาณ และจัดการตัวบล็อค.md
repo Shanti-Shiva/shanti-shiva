@@ -4,6 +4,7 @@
 
 [[ฐานจิตร แอดว้านซ์ Mind Foundation Advance\|ฐานจิตร แอดว้านซ์ Mind Foundation Advance]]
 [[MFA ครั้งที่10 คุณสมบัติ จิตวิญญาณ ทั้ง6มิติ\|MFA ครั้งที่10 คุณสมบัติ จิตวิญญาณ ทั้ง6มิติ]]
+[[MFA ครั้งที่12 ทบทวน และ สมาธิปลดล็อค\|MFA ครั้งที่12 ทบทวน และ สมาธิปลดล็อค]]
 
 ---
 ![att.DzlIueS64QWzlqBeJP_eHGrJdc2AnHGbODgkDS-WGUQ.jpeg](/img/user/att.DzlIueS64QWzlqBeJP_eHGrJdc2AnHGbODgkDS-WGUQ.jpeg)
