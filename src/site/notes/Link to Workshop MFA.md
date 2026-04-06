@@ -14,6 +14,8 @@
 1. [[พระวิญญาณบริสุทธิ์ The Holy Spirit\|พระวิญญาณบริสุทธิ์ The Holy Spirit]] 
 2. [[จุดเทียนอีสเตอร์แด่พระเจ้า Paschal Candle\|จุดเทียนอีสเตอร์แด่พระเจ้า Paschal Candle]] 
 3. [[สมาธิ God Word\|สมาธิ God Word]] 
+4. [[คุยหลัง God Word After-talk\|คุยหลัง God Word After-talk]]
+5. [[รางวัลผู้ชนะ winner awards\|รางวัลผู้ชนะ winner awards]] 
 
 ##### วันที่ 6เมษา69
 1. [[ภาษาแสง Armor & Blessing\|ภาษาแสง Armor & Blessing]] 
