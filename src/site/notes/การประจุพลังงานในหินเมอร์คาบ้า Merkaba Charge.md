@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/merkaba-charge/"}
 ---
 
-[[Workshop MFA 4-6Apr’69\|Workshop MFA 4-6Apr’69]]
+[[Link to Workshop MFA\|Link to Workshop MFA]]
 [[ฐานจิตร แอดว้านซ์ Mind Foundation Advance\|ฐานจิตร แอดว้านซ์ Mind Foundation Advance]]
 
 
