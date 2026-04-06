@@ -12,5 +12,5 @@
 4. [[Personal Universe Library\|Personal Universe Library]] 
 
 ##### วันที่ 5เมษา69
-1. [[พระวิญญาณบริสุทธิ์ Holy Spirit\|พระวิญญาณบริสุทธิ์ Holy Spirit]] 
+1. [[พระวิญญาณบริสุทธิ์ The Holy Spirit\|พระวิญญาณบริสุทธิ์ The Holy Spirit]] 
 2. [[จุดเทียนอีสเตอร์แด่พระเจ้า\|จุดเทียนอีสเตอร์แด่พระเจ้า]] 
