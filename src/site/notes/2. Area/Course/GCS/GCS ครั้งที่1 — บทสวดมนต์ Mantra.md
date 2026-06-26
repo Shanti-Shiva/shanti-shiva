@@ -3,7 +3,7 @@
 ---
 
 [[MOC - Golden Cosmic Scripture\|MOC - Golden Cosmic Scripture]]
-[[2. Area/Course/GCS/GCS ครั้งที่1 Preparation\|GCS ครั้งที่1 Preparation]]
+[[2. Area/Course/GCS/GCS ครั้งที่1 Preparation เตรียมฐานกาย ฐานจิต ฐานพระวิญญาณ\|GCS ครั้งที่1 Preparation เตรียมฐานกาย ฐานจิต ฐานพระวิญญาณ]]
 # 📿 GCS — บทสวดมนต์และบทภาวนา
 
 *รวมบทสวดจากคลาสคัมภีร์จักรวาลทองคำ รุ่นที่ 3 ครั้งที่ 1*
@@ -232,7 +232,7 @@
 
 ## 🔗 ดูเพิ่มเติม
 
-- [[2. Area/Course/GCS/GCS ครั้งที่1 Preparation\|GCS ครั้งที่1 Preparation]] — เนื้อหาหลักของคลาส
+- [[2. Area/Course/GCS/GCS ครั้งที่1 Preparation เตรียมฐานกาย ฐานจิต ฐานพระวิญญาณ\|GCS ครั้งที่1 Preparation เตรียมฐานกาย ฐานจิต ฐานพระวิญญาณ]] — เนื้อหาหลักของคลาส
 - [[GCS ครั้งที่0 ปฐมนิเทศ Orientation\|GCS ครั้งที่0 ปฐมนิเทศ Orientation]] — ปฐมนิเทศ
 - [[MOC - Golden Cosmic Scripture\|MOC - Golden Cosmic Scripture]] — สารบัญคัมภีร์จักรวาลทองคำ
 
