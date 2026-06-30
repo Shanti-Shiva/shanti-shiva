@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-1-preparation/","title":"GCS ครั้งที่1 — เตรียมตัวก่อนเรียน","tags":["gcs","kru-tun","golden-cosmic-scripture","lesson-1"],"dg-note-properties":{"title":"GCS ครั้งที่1 — เตรียมตัวก่อนเรียน","date":"2026-06-26","tags":["gcs","kru-tun","golden-cosmic-scripture","lesson-1"],"source":"GCS_1_เตรียมตัวก่อนเรียน_260626.mp3","teacher":"ครูทัน","type":"lecture","aliases":["GCS Lesson 1"]}}
+{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-1-preparation/","title":"GCS ครั้งที่1 — เตรียมตัวก่อนเรียน","tags":["gcs","kru-tun","golden-cosmic-scripture","lesson-1"],"dg-note-properties":{"title":"GCS ครั้งที่1 — เตรียมตัวก่อนเรียน","date":"2026-06-26","tags":["gcs","kru-tun","golden-cosmic-scripture","lesson-1"],"source":"GCS_1_เตรียมตัวก่อนเรียน_260626.mp3","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 1"]}}
 ---
 
 [[MOC - Golden Cosmic Scripture\|MOC - Golden Cosmic Scripture]]
@@ -7,7 +7,7 @@
 # GCS ครั้งที่1 — เตรียมตัวก่อนเรียน
 
 > [!info] ข้อมูลคลาส
-> **ครู:** [[ครูทัน\|ครูทัน]]
+> **ครู:** [[ครูธัญ\|ครูธัญ]]
 > **หลักสูตร:** คัมภีร์จักรวาลทองคำ รุ่นที่ 3 (Golden Cosmic Scripture Batch 3)
 > **ครั้งที่:** 1 — การเตรียมฐานกาย จิต และพระวิญญาณ
 > **วันที่:** 26 มิถุนายน 2569
@@ -190,8 +190,8 @@
 
 ### ขั้นตอนที่ 3: ภาวนาพระนามพระเจ้า
 ![IMG_4357.jpeg](/img/user/IMG_4357.jpeg)
-> **"ยาเว โย เฮ วาฟ เฮ"**
-> (Ya-We Yod-He-Vav-He — พระนามพระเจ้าในภาษาฮีบรู)
+> **"ยาห์เวห์ โยด เฮ วาฟ เฮ"**
+> (Yahweh — Yod Hei Vav Hei — พระนามพระเจ้าในภาษาฮีบรู)
 ![IMG_4358.jpeg](/img/user/IMG_4358.jpeg)
 **วิธี:** ภาวนา 9 จบ
 > "ข้าพเจ้าขอภาวนาพระนามของพระเจ้าทั้งหมด 9 จบนี้
@@ -200,7 +200,7 @@
 > และพิภพของลูกจะเป็นภาชนะในการรองรับพลังงานอันบริสุทธิ์จากพระเจ้า
 > มาสู่กาย จิต และพระวิญญาณของลูก ด้วยเถิด"
 
-> ยาเว โย เฮ วาฟ เฮ (9 ครั้ง)
+> ยาห์เวห์ โยด เฮ วาฟ เฮ (9 ครั้ง)
 > สาธุ อาเมน
 
 ---
@@ -288,4 +288,4 @@
 ---
 
 *บันทึกโดย Shanti — 26 มิถุนายน 2569*
-*ที่มา: คลาสคัมภีร์จักรวาลทองคำ รุ่นที่ 3 ครั้งที่ 1 — ครูทัน*
+*ที่มา: คลาสคัมภีร์จักรวาลทองคำ รุ่นที่ 3 ครั้งที่ 1 — ครูธัญ*
