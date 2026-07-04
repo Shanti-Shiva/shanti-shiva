@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gcs-3/","tags":["GCS","golden-cosmic-scripture","kru-tun","trinity","holy-trinity","pure-love","pure-emptiness","holy-spirit","merkaba","dharmakaya","word-of-god"],"dg-note-properties":{"tags":["GCS","golden-cosmic-scripture","kru-tun","trinity","holy-trinity","pure-love","pure-emptiness","holy-spirit","merkaba","dharmakaya","word-of-god"],"source":"GCS_3_พระตรีเอกานุภาพ_030726.mp3"}}
+{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-3/","tags":["GCS","GCS/ครั้งที่3","golden-cosmic-scripture","kru-tun","trinity","holy-trinity","pure-love","pure-emptiness","holy-spirit","merkaba","dharmakaya","word-of-god","ปฏิบัติ","ตรีเอกานุภาพ"],"dg-note-properties":{"date":"2026-07-03","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 3","Holy Trinity","GCS ครั้งที่ 3"],"tags":["GCS","GCS/ครั้งที่3","golden-cosmic-scripture","kru-tun","trinity","holy-trinity","pure-love","pure-emptiness","holy-spirit","merkaba","dharmakaya","word-of-god","ปฏิบัติ","ตรีเอกานุภาพ"],"source":"GCS_3_พระตรีเอกานุภาพ_030726.mp3"}}
 ---
 
 
@@ -15,7 +15,7 @@
 **← ก่อนหน้า:** [[2. Area/Course/GCS/GCS ครั้งที่2 — พระกำเนิดแห่งองค์พระอนุตรธรรมบิดา Birth of God\|GCS ครั้งที่ 2]]  
 **→ ถัดไป:** *GCS ครั้งที่ 4 — (รอเรียน)*
 
----
+> 💡 **หมายเหตุ:** เนื้อหาคลาสนี้ไม่ได้เป็นไปตามแผนดั้งเดิมที่ครูธัญวางไว้ — กลับกลายเป็นคลาสที่เจาะลึกโครงสร้างพระตรีเอกานุภาพโดยเฉพาะ ซึ่งเป็นเนื้อหาที่ลึกและกว้างกว่าที่คาดไว้
 
 ## สารบัญเนื้อหา
 
