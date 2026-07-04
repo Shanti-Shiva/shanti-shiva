@@ -59,6 +59,7 @@
 ---
 
 ## ๒. อนุภาคแก่นแท้ (Core Essence Particle) — บ่อเกิดแห่งสรรพสิ่ง
+
 ![4B505E3B-DF85-4C87-B598-AD40EE637CD0.jpeg](/img/user/4B505E3B-DF85-4C87-B598-AD40EE637CD0.jpeg)
 ### นิยาม
 
