@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/moc-golden-cosmic-scripture/","dg-note-properties":{}}
 ---
 
+[[2. Area/Course/MFB/ฐานจิตร Mind Foundation (Basic)\|ฐานจิตร Mind Foundation (Basic)]]
 
 19 FEB 2026 เริ่มคลาสวันปฐมนิเทศ
 
