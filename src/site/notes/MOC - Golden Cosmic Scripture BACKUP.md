@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/moc-golden-cosmic-scripture/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/moc-golden-cosmic-scripture-backup/","dg-note-properties":{}}
 ---
 
 [[2. Area/Course/MFB/ฐานจิตร Mind Foundation (Basic)\|ฐานจิตร Mind Foundation (Basic)]]
@@ -30,8 +30,4 @@
 [[Raw transcript GCS_04 ตอน2\|Raw transcript GCS_04 ตอน2]] 
 [[3. Resource/Chants/บทสวดมนต์   ก่อนเข้าพรรษา\|บทสวดมนต์   ก่อนเข้าพรรษา]]
 
-
-## 🗓️ 20 กรกฎาคม 2569
-
-[[2. Area/Course/GCS/GCS ครั้งที่5 — พระเมสสิยาห์\|GCS ครั้งที่5 — พระเมสสิยาห์]] — ครั้งที่ 5: พระเมสสิยาห์ พระเยซูคริสต์ การปฏิสนธิเหนือธรรมชาติ 3 ยีนจากพระเจ้า สองเส้นทางพุทธ-คริสต์ แผนการประสานกลับคืน 144,000 คน
 [[Raw transcript GCS_05\|Raw transcript GCS_05]]
