@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-5/","tags":["GCS","GCS/ครั้งที่5","golden-cosmic-scripture","kru-tun","messiah","jesus-christ","first-sin","buddha","covenant"],"dg-note-properties":{"date":"2026-07-20","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 5","พระเมสสิยาห์","GCS ครั้งที่ 5"],"tags":["GCS","GCS/ครั้งที่5","golden-cosmic-scripture","kru-tun","messiah","jesus-christ","first-sin","buddha","covenant"]}}
+{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-5/","tags":["GCS","GCS/ครั้งที่5","golden-cosmic-scripture","kru-tun","messiah","jesus-christ","first-sin","buddha","covenant"],"dg-note-properties":{"date":"2026-07-17","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 5","พระเมสสิยาห์","GCS ครั้งที่ 5"],"tags":["GCS","GCS/ครั้งที่5","golden-cosmic-scripture","kru-tun","messiah","jesus-christ","first-sin","buddha","covenant"]}}
 ---
 
 

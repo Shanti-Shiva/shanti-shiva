@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gcs-6/","tags":["GCS","GCS/ครั้งที่6","golden-cosmic-scripture","kru-tun","holy-spirit"],"dg-note-properties":{"date":"2026-07-25","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 6","Holy Spirit Waits to Be Sought","พระวิญญาณทรงรอคอยการตามหา"],"source_files":["GCS_6_พระวิญญาณทรงรอคอยการตามหา.mp3"],"tags":["GCS","GCS/ครั้งที่6","golden-cosmic-scripture","kru-tun","holy-spirit"]}}
+{"dg-publish":true,"permalink":"/gcs-6/","tags":["GCS","GCS/ครั้งที่6","golden-cosmic-scripture","kru-tun","holy-spirit"],"dg-note-properties":{"date":"2026-07-24","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 6","Holy Spirit Waits to Be Sought","พระวิญญาณทรงรอคอยการตามหา"],"source_files":["GCS_6_พระวิญญาณทรงรอคอยการตามหา.mp3"],"tags":["GCS","GCS/ครั้งที่6","golden-cosmic-scripture","kru-tun","holy-spirit"]}}
 ---
 
-
+[[MOC - Golden Cosmic Scripture\|MOC - Golden Cosmic Scripture]]
 # GCS ครั้งที่ 6 — พระวิญญาณทรงรอคอยการตามหา
 
 > *“แล้วท่านทั้งหลาย... หาพระวิญญาณบริสุทธิ์แห่งยุคนี้เจอรึยัง?”*
