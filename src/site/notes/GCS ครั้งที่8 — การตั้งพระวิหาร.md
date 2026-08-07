@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gcs-8/","tags":["GCS","GCS/ครั้งที่8","golden-cosmic-scripture","kru-tun","temple","purity","ark-of-covenant","holy-of-holies","human-temple","holy-spirit"],"dg-note-properties":{"date":"2026-08-08","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 8","GCS ครั้งที่8 — การตั้งพระวิหาร"],"source_files":["GCS_08_การตั้งพระวิหาร.mp3"],"tags":["GCS","GCS/ครั้งที่8","golden-cosmic-scripture","kru-tun","temple","purity","ark-of-covenant","holy-of-holies","human-temple","holy-spirit"]}}
+{"dg-publish":true,"permalink":"/gcs-8/","tags":["GCS","GCS/ครั้งที่8","golden-cosmic-scripture","kru-tun","temple","purity","ark-of-covenant","holy-of-holies","human-temple","holy-spirit"],"dg-note-properties":{"date":"2026-08-07","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 8","GCS ครั้งที่8 — การตั้งพระวิหาร"],"source_files":["GCS_08_การตั้งพระวิหาร.mp3"],"tags":["GCS","GCS/ครั้งที่8","golden-cosmic-scripture","kru-tun","temple","purity","ark-of-covenant","holy-of-holies","human-temple","holy-spirit"]}}
 ---
 
-
+[[MOC - Golden Cosmic Scripture\|MOC - Golden Cosmic Scripture]]
 # GCS ครั้งที่ 8 — การตั้งพระวิหาร
 
 > *ความบริสุทธิ์ของพระเจ้า คือพลังแห่งความจริงและความรักที่ไร้ขีดจำกัด ผู้ที่ถ่อมใจและยำเกรงจึงจะเข้าใกล้ได้ และมนุษย์เองนั่นแหละ คือวิหารที่แท้จริงของพระเจ้า*
