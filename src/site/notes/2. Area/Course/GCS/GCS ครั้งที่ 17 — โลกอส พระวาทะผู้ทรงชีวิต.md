@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-17/","tags":["GCS","GCS/ครั้งที่17","golden-cosmic-scripture","kru-tun","โลกอส","ดาวาร์","พระนามของพระเจ้า","สมการสามเหลี่ยม","เกราะพระวิญญาณ"],"dg-note-properties":{"date":"2026-09-12","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 17","โลกอส พระวาทะผู้ทรงชีวิต","พระนามของพระเจ้า"],"source_files":["GCS_17_01.mp3","GCS_17_02.mp3"],"tags":["GCS","GCS/ครั้งที่17","golden-cosmic-scripture","kru-tun","โลกอส","ดาวาร์","พระนามของพระเจ้า","สมการสามเหลี่ยม","เกราะพระวิญญาณ"]}}
+{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-17/","tags":["GCS","GCS/ครั้งที่17","golden-cosmic-scripture","kru-tun","โลกอส","ดาวาร์","พระนามของพระเจ้า","สมการสามเหลี่ยม","เกราะพระวิญญาณ"],"dg-note-properties":{"date":"2026-09-12","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 17","โลกอส พระวาทะผู้ทรงชีวิต","พระนามของพระเจ้า"],"source":"GCS ครั้งที่ 17 แก้คำผิดเบื้องต้นแล้ว.docx (transcript)","tags":["GCS","GCS/ครั้งที่17","golden-cosmic-scripture","kru-tun","โลกอส","ดาวาร์","พระนามของพระเจ้า","สมการสามเหลี่ยม","เกราะพระวิญญาณ"]}}
 ---
 
 

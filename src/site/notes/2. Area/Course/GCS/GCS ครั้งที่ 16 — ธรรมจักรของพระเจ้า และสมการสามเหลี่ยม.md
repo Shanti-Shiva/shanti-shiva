@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-16/","tags":["GCS","GCS/ครั้งที่16","golden-cosmic-scripture","kru-tun","ธรรมจักร","กฎ 12 ข้อ","คาโดช","สมการสามเหลี่ยม","ตราประทับ","พระแม่กายา"],"dg-note-properties":{"date":"2026-09-11","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 16","ธรรมจักรของพระเจ้า สมการสามเหลี่ยม ตราประทับแห่งความรอดพ้น"],"source_files":["GCS_16_01.mp3","GCS_16_02.mp3"],"tags":["GCS","GCS/ครั้งที่16","golden-cosmic-scripture","kru-tun","ธรรมจักร","กฎ 12 ข้อ","คาโดช","สมการสามเหลี่ยม","ตราประทับ","พระแม่กายา"]}}
+{"dg-publish":true,"permalink":"/2-area/course/gcs/gcs-16/","tags":["GCS","GCS/ครั้งที่16","golden-cosmic-scripture","kru-tun","ธรรมจักร","กฎ 12 ข้อ","คาโดช","สมการสามเหลี่ยม","ตราประทับ","พระแม่กายา"],"dg-note-properties":{"date":"2026-09-11","teacher":"ครูธัญ","type":"lecture","aliases":["GCS Lesson 16","ธรรมจักรของพระเจ้า สมการสามเหลี่ยม ตราประทับแห่งความรอดพ้น"],"source":"GCS ครั้งที่16.docx (transcript)","tags":["GCS","GCS/ครั้งที่16","golden-cosmic-scripture","kru-tun","ธรรมจักร","กฎ 12 ข้อ","คาโดช","สมการสามเหลี่ยม","ตราประทับ","พระแม่กายา"]}}
 ---
 
 
